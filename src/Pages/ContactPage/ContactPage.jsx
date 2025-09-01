@@ -50,7 +50,7 @@ const ContactPage = ()=>{
                             </p>
                             <a href="mailto:rustambek0301@gmail.com" 
                             className="contact-email">
-                            rustambek0301@gmail.com
+                            islombekraximjanov97dev@gmail.com
                             </a>
                         </li>
                         <li className="contact-item">
