@@ -71,8 +71,8 @@ return(
             <p className="footer-left">
                 © 2020–2022, ООО «IT-TIME», официальный сайт
             </p>
-            <a href="https://t.me/the_rustambek" className="developed-link">
-                Developed by Rustambek
+            <a href="t.me/R_Islombek_web" className="developed-link">
+                Developed by Islombek
             </a>
         </div>
     </div>
