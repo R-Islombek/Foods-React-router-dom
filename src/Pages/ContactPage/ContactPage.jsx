@@ -17,7 +17,7 @@ const ContactPage = ()=>{
                             Ташкент
                             </p>
                             <a href="tel:+998931487733" className="contact-tel">
-                            +998931487733
+                            +998934629992
                             </a>
                         </li>
                         <li className="contact-item">
