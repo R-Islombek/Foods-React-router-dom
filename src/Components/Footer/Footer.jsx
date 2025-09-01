@@ -60,7 +60,7 @@ return(
                     Заказывайте по номеру
                 </h2>
                 <li className="footer-item">
-                    <a href="tel:+998934629992" className="footer-link">+998931487733</a>
+                    <a href="tel:+998934629992" className="footer-link">+998934629992</a>
                 </li>
             </ul>
 
