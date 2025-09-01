@@ -78,7 +78,7 @@ const ContactPage = ()=>{
                             </p>
                             <a href="mailto:rustambek0301@gmail.com" 
                             className="contact-email">
-                            rustambek0301@gmail.com
+                            islombekraximjanov97@gmail.com
                             </a>
                     </div>
                 </div>
