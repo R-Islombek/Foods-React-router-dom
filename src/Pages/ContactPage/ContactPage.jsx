@@ -33,7 +33,7 @@ const ContactPage = ()=>{
                             Алмалык
                             </p>
                             <a href="tel:+998931487733" className="contact-tel">
-                            +998931487777
+                            +998934629992
                             </a>
                         </li>
                     </ul>
