@@ -69,7 +69,7 @@ return(
 
         <div className="footer-bottom">
             <p className="footer-left">
-                © 2020–2022, ООО «IT-TIME», официальный сайт
+                © 2020–2022, ООО «Islombek Raximjanov», официальный сайт
             </p>
             <a href="t.me/R_Islombek_web" className="developed-link">
                 Developed by Islombek
